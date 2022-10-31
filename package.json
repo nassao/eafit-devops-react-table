@@ -20,9 +20,6 @@
     "@emotion/styled": "latest",
     "@mui/material": "latest"
   },
-  "devDependencies": {
-    "react-scripts": "latest"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
